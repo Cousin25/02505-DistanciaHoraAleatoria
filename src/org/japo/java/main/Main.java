@@ -51,7 +51,5 @@ public class Main {
         System.out.printf("Hora actual.......: %02d:%02d:%02d%n", hAct, mAct, sAct);
         System.out.printf("Hora inicio.......: %02d:%02d:%02d%n", hINIT, mINIT, sINIT);
         System.out.printf("Tiempo de clase...: %02d:%02d:%02d%n", hora_total, mins_total, secs_total);
-
     }
-
 }
